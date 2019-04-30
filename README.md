@@ -3,19 +3,14 @@
 ## Stage Reports
 * Research Phase
 	* [PDF](UX_Project_Research_Phase.pdf)
-	* [NCSU Google Drive](https://docs.google.com/document/d/1pUwq34ZKfRofJ4D4q3PpxLDObDlnY6H9TiTi0vaVcP8/edit?usp=sharing)
 * Generate Phase
 	* [PDF](UX_Project_Generate_Phase.pdf)
-	* [NCSU Google Drive](https://docs.google.com/document/d/1WSbMND1Z1cmwIbika_KXSEuS87Apmps9_Za5urnIZAk/edit?usp=sharing)
 * Choose Phase
 	* [PDF](UX_Project_Choose_Phase.pdf)
-	* [NCSU Google Drive](https://docs.google.com/document/d/10RzGiU5Ik9_3dWz92m21qgBx_GVVi8elnSJRJH5OELw/edit?usp=sharing)
 * Prototype Phase
 	* [PDF](UX_Project_Prototype_Phase.pdf)
-	* [NCSU Google Drive](https://docs.google.com/document/d/1ECgFxx7ty0ej8OEAN42tDRmyBFd3phZjVFzk2UVWIZ8/edit?usp=sharing)
 * Evaluate Phase
 	* [PDF](UX_Project_Evaluate_Phase.pdf)
-	* [NCSU Google Drive](https://docs.google.com/document/d/1UeDs7N-52ndQAe-4gCgHGs5T1qD2YfZFUYkhQJdxp4M/edit?usp=sharing)
 
 ## Prototype
 
